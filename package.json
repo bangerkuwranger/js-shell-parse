@@ -6,7 +6,7 @@
   "dependencies": {
     "array-map": "0.0.0",
     "isarray": "0.0.1",
-    "parsimmon": "^0.7.0"
+    "parsimmon": "^0.9.2"
   },
   "scripts": {
     "test": "tape tests/*.js",
